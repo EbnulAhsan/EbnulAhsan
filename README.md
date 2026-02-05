@@ -12,7 +12,8 @@ I’m a passionate **Front-End Developer focused on React**, building interactiv
 ---
 
 ### 💻 Skills
-✔ JavaScript (ES6+)  
+✔ JavaScript (ES6+)
+✔ TypeScript 
 ✔ React & React Router  
 ✔ HTML & CSS / Tailwind CSS  
 ✔ Responsive Web Design  
