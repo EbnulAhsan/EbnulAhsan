@@ -8,20 +8,36 @@
 
 ### 🔭 About Me
 I’m a passionate **Front-End Developer focused on React**, building interactive and responsive web apps. Always learning new modern frontend technologies and improving my skills day by day.
+🎯 *Currently open to Entry-Level Software Engineering roles where I can contribute and grow.*
 
 ---
 
-### 💻 Skills
-✔ JavaScript (ES6+)  
-✔ TypeScript  
-✔ React & React Router  
-✔ HTML & CSS / Tailwind CSS  
-✔ Responsive Web Design  
-✔ Git & GitHub  
-✔ API Integration  
-✔ Framer Motion
+## 🧰 Tech Stack & Tools
+
+**Languages:**
+`Java` • `C#` • `C++` • `TypeScript` • `JavaScript`
+
+**Frameworks:**
+`Bootstrap` • `React.js` • `NestJS` • `NextJS`
+
+**Databases:**
+`PostgreSQL` • `MySQL` • `Oracle`
+
+**Tools & Others:**
+`Docker` • `Git` • `GitHub` • `Postman` • `Entity Framework` • `Swagger` • `Figma`
 
 ---
+
+## 🛠️ Core Engineering Focus
+
+| 🔍 Core Concept                | 💡 Focus Area                                                                               |
+| :----------------------------- | :------------------------------------------------------------------------------------------ |
+| **Frontend Architecture**       | RESTful APIs, **React**, **Next.js**, **Node.js**, **Responsive UI**, **Tailwind** , Animation(Framer Motion, GSAP)       |
+| **System Design & Deployment** | **Docker** and cloud deployment                                   |
+| **Full-Stack Development**      | **API Integration**, **Authentication**, **State Management**, **Dependency Injection**, **Modular Architecture** |
+| **Security**                   | **JWT Authentication**, **RBAC**, input validation, and API hardening                       |
+| **Core CS Fundamentals**       | OS, Data Structures, and Problem Solving                                                |
+
 
 ### 🚀 Currently Working On
 - React   
