@@ -104,10 +104,12 @@ Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerb
 ---
 
 ### 📫 How to Reach Me
-📧 Email: ebnu1721@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/ebnul-ahsan-582768363/
-
----
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ebnu
+L Aahsan)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ebnul
+Ahsan)
+[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ebnu
+L Aahsan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ebnu1721@gmail.com)
 
 ### ⚡ Fun Fact
 I love turning ideas into dynamic interfaces and learning new JavaScript tricks every day!
