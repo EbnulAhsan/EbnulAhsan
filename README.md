@@ -47,25 +47,13 @@ I’m a passionate **Front-End Developer focused on React**, building interactiv
 
 ---
 
-### 🌱 Currently Learning
-- Next.js (Server Components, Data Fetching)  
-- Redux 
-- Secure Authentication & Deployment
-
----
 
 ### 👯 Looking to Collaborate On
 - Frontend React projects  
 - UI component libraries  
 - Open-source apps with modern CSS & JS
 
----
-
-### 🤔 Looking for Help With
-- Web performance optimization  
-- Best practices for React project architecture  
-
----
+-----
 
 ### 📫 How to Reach Me
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ebnu
